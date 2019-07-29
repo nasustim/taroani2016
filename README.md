@@ -1,7 +1,3 @@
-#about
+#about  
 
-before rescue(dead dns)
-<http://taroani2016.lv9.org>
-
-after rescue
-<https://nasustim.github.io/taroani2016/>
+2016年 名古屋工業大学工大祭内で開催されたアニソンクラブイベントの告知URL  
